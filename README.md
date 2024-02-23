@@ -2,12 +2,12 @@
 
 
 # Demo
-![image](x)
+![calendar-fadwa](https://github.com/fadwaqarouach/fadwaqarouach.github.io/assets/160190692/8f997bda-0423-408a-8d93-f6569b0ab70a)
 
 
 ## How To Setup
 ```
-git 
+git clone https://github.com/fadwaqarouach/fadwaqarouach.github.io.git
 ```
 ```
 cd event-calendar
